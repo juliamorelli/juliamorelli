@@ -1,0 +1,6 @@
+- Julia Morelli
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScrip
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Morellix7@gmail.com
+- ![](https://media.tenor.com/xUZ8mgiaB1sAAAAi/dancing-letter-letter-j.gif)
